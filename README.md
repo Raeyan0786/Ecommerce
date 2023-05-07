@@ -9,7 +9,7 @@
 
 
 
-* H2 in memory database.
+* MYSQL database.
 # Dataflow.
 * Controller layer method call method of service layer.
 * Service layer overrides the method of interface Repository.
